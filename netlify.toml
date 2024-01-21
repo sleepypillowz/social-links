@@ -1,0 +1,2 @@
+[build]
+  command = "npm run build:tailwind"  # Adjust this based on your build script
