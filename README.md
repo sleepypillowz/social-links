@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-social-links-using-css-grid-zG8jOPkoUQ)
-- Live Site URL: [Add live site URL here](acojido-social-links.netlify.app)
+- Live Site URL: [Add live site URL here](https://sleepypillowz-social-links.netlify.app/)
 
 ### Screenshot
 
